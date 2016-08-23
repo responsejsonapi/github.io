@@ -30,27 +30,22 @@
     },
     {
       "Title": "Rezept 2",
-      "Thumbnail": "https://pbs.twimg.com/media/Ch9J2B7WEAEToPY.jpg",
+      "Thumbnail": "https://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
       "NumbersOfSteps": 4,
       "Steps": [
         {
-          "img": "https://pbs.twimg.com/media/Ch9J2B7WEAEToPY.jpg",
-          "headline": "1. Gewaschene Birnen vorkochen",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
-        },
-        {
           "img": "https://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
-          "headline": "2. Birnen gut abtropfen lassen",
+          "headline": "1. Birnen gut abtropfen lassen",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
         },
         {
           "img": "https://pbs.twimg.com/media/CleDQydWgAAYTHl.jpg",
-          "headline": "3. Birnen schälen",
+          "headline": "2. Birnen schälen",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
         },
         {
           "img": "https://pbs.twimg.com/media/CkM9sVpXEAAialD.jpg",
-          "headline": "4. Birnen in Scheiben schneiden",
+          "headline": "3. Birnen in Scheiben schneiden",
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo."
         }
       ]
