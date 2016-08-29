@@ -5,7 +5,7 @@
       "Title": "Rezept 1",
       "Thumbnail": "https://pbs.twimg.com/media/Ch9J2B7WEAEToPY.jpg",
       "UID": 1,
-      "NumbersOfSteps": 5
+      "NumbersOfSteps": 5,
       "Steps": [
         {
           "img": "https://media.giphy.com/media/9lzBlco6tkvte/giphy.gif",
