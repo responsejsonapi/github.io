@@ -6,6 +6,20 @@
       "Thumbnail": "http://pbs.twimg.com/media/Ch9J2B7WEAEToPY.jpg",
       "UID": 1,
       "NumbersOfSteps": 4,
+      "InfoIconBar": [
+        { iconName: 'ios-cut-outline',
+          text: '10 Stücke'
+        },
+        { iconName: 'ios-color-fill-outline',
+          text: 'Einfach
+        },
+        { iconName: 'ios-alarm-outline',
+          text: '35min'
+        },
+        { iconName: 'ios-bonfire-outline',
+          text: '440kcal'
+        }
+      ],
       "Steps": [
         {
           "img": "http://66.media.tumblr.com/26e8675126f9e2e046758ebe61b8a929/tumblr_o61cpzc0Gv1u9ooogo1_540.gif",
@@ -34,6 +48,20 @@
       "Thumbnail": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
       "UID": 2,
       "NumbersOfSteps": 3,
+      "InfoIconBar": [
+        { iconName: 'ios-cut-outline',
+          text: '10 Stücke'
+        },
+        { iconName: 'ios-color-fill-outline',
+          text: 'Einfach
+        },
+        { iconName: 'ios-alarm-outline',
+          text: '35min'
+        },
+        { iconName: 'ios-bonfire-outline',
+          text: '440kcal'
+        }
+      ],
       "Steps": [
         {
           "img": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
@@ -57,6 +85,20 @@
       "Thumbnail": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
       "UID": 3,
       "NumbersOfSteps": 3,
+      "InfoIconBar": [
+        { iconName: 'ios-cut-outline',
+          text: '10 Stücke'
+        },
+        { iconName: 'ios-color-fill-outline',
+          text: 'Einfach
+        },
+        { iconName: 'ios-alarm-outline',
+          text: '35min'
+        },
+        { iconName: 'ios-bonfire-outline',
+          text: '440kcal'
+        }
+      ],
       "Steps": [
         {
           "img": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
@@ -80,6 +122,20 @@
       "Thumbnail": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
       "UID": 4,
       "NumbersOfSteps": 3,
+      "InfoIconBar": [
+        { iconName: 'ios-cut-outline',
+          text: '10 Stücke'
+        },
+        { iconName: 'ios-color-fill-outline',
+          text: 'Einfach
+        },
+        { iconName: 'ios-alarm-outline',
+          text: '35min'
+        },
+        { iconName: 'ios-bonfire-outline',
+          text: '440kcal'
+        }
+      ],
       "Steps": [
         {
           "img": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
@@ -103,6 +159,20 @@
       "Thumbnail": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
       "UID": 5,
       "NumbersOfSteps": 3,
+      "InfoIconBar": [
+        { iconName: 'ios-cut-outline',
+          text: '10 Stücke'
+        },
+        { iconName: 'ios-color-fill-outline',
+          text: 'Einfach
+        },
+        { iconName: 'ios-alarm-outline',
+          text: '35min'
+        },
+        { iconName: 'ios-bonfire-outline',
+          text: '440kcal'
+        }
+      ],
       "Steps": [
         {
           "img": "http://pbs.twimg.com/media/Cj4Zx1pXIAEOrNJ.jpg",
