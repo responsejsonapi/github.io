@@ -7,17 +7,17 @@
       "UID": 1,
       "NumbersOfSteps": 4,
       "InfoIconBar": [
-        { iconName: 'ios-cut-outline',
-          text: '10 Stücke'
+        { "iconName": "ios-cut-outline",
+          "text": "10 Stücke"
         },
-        { iconName: 'ios-color-fill-outline',
-          text: 'Einfach
+        { "iconName": "ios-color-fill-outline",
+          "text": "Einfach"
         },
-        { iconName: 'ios-alarm-outline',
-          text: '35min'
+        { "iconName": "ios-alarm-outline",
+          "text": "35min"
         },
-        { iconName: 'ios-bonfire-outline',
-          text: '440kcal'
+        { "iconName": "ios-bonfire-outline",
+          "text": "440kcal"
         }
       ],
       "Steps": [
@@ -49,17 +49,17 @@
       "UID": 2,
       "NumbersOfSteps": 3,
       "InfoIconBar": [
-        { iconName: 'ios-cut-outline',
-          text: '10 Stücke'
+        { "iconName": "ios-cut-outline",
+          "text": "10 Stücke"
         },
-        { iconName: 'ios-color-fill-outline',
-          text: 'Einfach
+        { "iconName": "ios-color-fill-outline",
+          "text": "Einfach"
         },
-        { iconName: 'ios-alarm-outline',
-          text: '35min'
+        { "iconName": "ios-alarm-outline",
+          "text": "35min"
         },
-        { iconName: 'ios-bonfire-outline',
-          text: '440kcal'
+        { "iconName": "ios-bonfire-outline",
+          "text": "440kcal"
         }
       ],
       "Steps": [
@@ -86,17 +86,17 @@
       "UID": 3,
       "NumbersOfSteps": 3,
       "InfoIconBar": [
-        { iconName: 'ios-cut-outline',
-          text: '10 Stücke'
+        { "iconName": "ios-cut-outline",
+          "text": "10 Stücke"
         },
-        { iconName: 'ios-color-fill-outline',
-          text: 'Einfach
+        { "iconName": "ios-color-fill-outline",
+          "text": "Einfach"
         },
-        { iconName: 'ios-alarm-outline',
-          text: '35min'
+        { "iconName": "ios-alarm-outline",
+          "text": "35min"
         },
-        { iconName: 'ios-bonfire-outline',
-          text: '440kcal'
+        { "iconName": "ios-bonfire-outline",
+          "text": "440kcal"
         }
       ],
       "Steps": [
@@ -123,17 +123,17 @@
       "UID": 4,
       "NumbersOfSteps": 3,
       "InfoIconBar": [
-        { iconName: 'ios-cut-outline',
-          text: '10 Stücke'
+        { "iconName": "ios-cut-outline",
+          "text": "10 Stücke"
         },
-        { iconName: 'ios-color-fill-outline',
-          text: 'Einfach
+        { "iconName": "ios-color-fill-outline",
+          "text": "Einfach"
         },
-        { iconName: 'ios-alarm-outline',
-          text: '35min'
+        { "iconName": "ios-alarm-outline",
+          "text": "35min"
         },
-        { iconName: 'ios-bonfire-outline',
-          text: '440kcal'
+        { "iconName": "ios-bonfire-outline",
+          "text": "440kcal"
         }
       ],
       "Steps": [
@@ -160,17 +160,17 @@
       "UID": 5,
       "NumbersOfSteps": 3,
       "InfoIconBar": [
-        { iconName: 'ios-cut-outline',
-          text: '10 Stücke'
+        { "iconName": "ios-cut-outline",
+          "text": "10 Stücke"
         },
-        { iconName: 'ios-color-fill-outline',
-          text: 'Einfach
+        { "iconName": "ios-color-fill-outline",
+          "text": "Einfach"
         },
-        { iconName: 'ios-alarm-outline',
-          text: '35min'
+        { "iconName": "ios-alarm-outline",
+          "text": "35min"
         },
-        { iconName: 'ios-bonfire-outline',
-          text: '440kcal'
+        { "iconName": "ios-bonfire-outline",
+          "text": "440kcal"
         }
       ],
       "Steps": [
